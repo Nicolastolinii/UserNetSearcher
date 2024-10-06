@@ -34,6 +34,16 @@ python usernetsearcher.py
 |------------------------------------------------------------------------------|
 | facebook        | https://facebook.com/"username"                            |
 | twitter         | https://twitter.com/"username"                             |
+| instagram       | https://instagram.com/"username"                           |
+| linkedin        | https://linkedin.com/in/"username"                         |
+| github          | https://github.com/"username"                              |
+| pinterest       | https://pinterest.com/"username"                           |
+| tiktok          | https://tiktok.com/@username                               |
+| reddit          | https://reddit.com/user/"username"                         |
+| youtube         | https://youtube.com/c/username                             |
+| snapchat        | https://snapchat.com/add/username                          |
+| tumblr          | https://username.tumblr.com                                |
+| discord         | https://discord.com/users/username                         |
 └──────────────────────────────────────────────────────────────────────────────┘
 
 ```
